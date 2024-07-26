@@ -7,7 +7,7 @@ This is only a tool and calculate results may not meet specific standards and th
 This is only a tool intended to help HKUST undergraduate students calculate what is the equivalent GPA of HKUST students, and get a better idea of how you are ranking among all international applicants when applying for graduate school outside of Hong Kong.
 
 ## Usage
-Download the [HKUST GPA CALCULATOR.xlsx](https://github.com/Zachary260325/HKUST-CGPA-Calculator/blob/main/HKUST%20GPA%20CALCULATOR.xlsx) file, open it, enter your courses, grades and credit.
+Download the [HKUST GPA CALCULATOR.xlsx](/HKUST%20GPA%20CALCULATOR.xlsx) file, open it, enter your courses, grades and credit.
 The first line I already gave an example, modify it into your own, and remember to copy the formula in each line.
 
 Using Excel 2021, but no new features, hope no bugs existing.
